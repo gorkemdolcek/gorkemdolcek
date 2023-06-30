@@ -65,7 +65,7 @@
 
 ###
 
-<h3 align="left">Github Stats</h3>
+<h3 align="left">Github Stats:</h3>
 
 ###
 
