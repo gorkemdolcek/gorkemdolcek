@@ -18,7 +18,7 @@ Python, Java, C#, HTML5, CSS, JavaScript, MYSQL.
 
 ###
 
-Git, VSCode, Linux, Unity, Qt, Scene Builder, Adobe (Ps, Ai, Ae)
+Git, VSCode, Linux, Unity, Qt Designer, Scene Builder, Adobe (Ps, Ai, Ae)
 
 ###
 
