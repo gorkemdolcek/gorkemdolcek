@@ -25,12 +25,4 @@ Git, VSCode, Linux, Unity, Qt Designer, Scene Builder, Adobe (Ps, Ai, Ae)
 
 ### 
 
-<h3 align="left"> Socials: </h3>
 
-###
-
-</a> <a href="http://www.instagram.com/mrdolcek" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/g%C3%B6rkem-dolcek-0b769620a/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/mrdolcek" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-
-
-###
