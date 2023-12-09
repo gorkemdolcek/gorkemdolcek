@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Görkem Dolcek. I am 22 years old and I am currently studying Cyber Security at Istanbul Gelisim University. I have been interested in computers for as long as I can remember. My adventure and goals started with trying to break and repair my laptops. As my interest in software increased, I realised early that I should study Cyber Security. I improve myself in this field every day. In the future, I want to be a Full-Stack Dev. who knows Cyber Security and Cloud systems.</p>
+<p align="left">My name is Görkem Dolcek. I am 22 years old and I am currently studying Cyber Security at Istanbul Gelisim University. I have been interested in computers for as long as I can remember. My adventure and goals started with trying to break and repair my laptops. As my interest in software increased, I realised that I should study Cyber Security. I am improving myself in this field every day. In the future, I want to be a Full-Stack Dev. who knows Cyber Security and Cloud systems.</p>
 
 ###
 
