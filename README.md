@@ -10,7 +10,7 @@
 
 ###
 
-Python, Java, C#, HTML5, CSS, JavaScript, MYSQL.
+Python, Java, C#, HTML, CSS, JavaScript, MYSQL.
 
 ###
 
@@ -18,7 +18,7 @@ Python, Java, C#, HTML5, CSS, JavaScript, MYSQL.
 
 ###
 
-Git, VSCode, Linux, Unity, Qt Designer, Scene Builder, Adobe (Ps, Ai, Ae)
+Git, Linux, Qt Designer, Scene Builder, Adobe (Ps, Ai, Ae)
 
 ###
 
