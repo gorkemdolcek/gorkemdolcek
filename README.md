@@ -2,7 +2,11 @@
 
 ###
 
-<p align="left">My name is Görkem Dolcek. I am 22 years old and I am currently studying Cyber Security at Istanbul Gelisim University. I have been interested in computers for as long as I can remember. My adventure and goals started with trying to break and repair my laptops. As my interest in software increased, I realised that I should study Cyber Security. I am improving myself in this field every day. In the future, i want to develop myself in CYBERSECURITY and CLOUD SYSTEMS.</p>
+<p align="left">I'm Görkem Dölcek, 23 years old. Jr. Cyber Security Analyst. I am interested in Digital Forensics Analyst. I am
+ passionate about developing myself in this field and I am actively looking for internship and job opportunities.
+ My English skills are sufficient with strong reading and writing skills at B2 level and basic speaking and
+ listening skills at A2 level. I was a board member of Istanbul Gelisim University Cyber Security Club.
+ I am interested in cyber security, cloud systems. My projects on Github provide information about my skills.</p>
 
 ###
 
@@ -10,7 +14,7 @@
 
 ###
 
-Python, Java, C#, HTML, CSS, JavaScript, MYSQL.
+Python, Java, C#, MYSQL.
 
 ###
 
@@ -18,7 +22,9 @@ Python, Java, C#, HTML, CSS, JavaScript, MYSQL.
 
 ###
 
-Git, Linux, Qt Designer, Scene Builder, Adobe (Ps, Ai, Ae)
+Git, Linux, AccessData FTK Imager,Volatility, Wireshark, Exiftool, Burp Suite
+Peepdf, Uncompyle6, CyberChef, Cellebrite UFED, ADB, NMAP
+Qt Designer, Scene Builder, 
 
 ###
 
