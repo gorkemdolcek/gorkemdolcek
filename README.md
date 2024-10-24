@@ -18,9 +18,7 @@ Python, Java, C#, MYSQL.
 
 ###
 
-Git, Linux, AccessData FTK Imager,Volatility, Wireshark, Exiftool, Burp Suite
-Peepdf, Uncompyle6, CyberChef, Cellebrite UFED, ADB, NMAP
-Qt Designer, Scene Builder, 
+Git, Linux, Qt Designer, Scene Builder.
 
 ###
 
