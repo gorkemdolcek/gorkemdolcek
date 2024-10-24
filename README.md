@@ -2,8 +2,7 @@
 
 ###
 
-<p align="left">I'm Görkem Dölcek, 23 years old. Jr. Cyber Security Analyst. I am interested in Digital Forensics Analyst. I am
- passionate about developing myself in this field and I am actively looking for internship and job opportunities.
+<p align="left">I'm Görkem Dölcek, 23 years old. Jr. Cyber Security Analyst. I am interested in Digital Forensics Analyst.
  My English skills are sufficient with strong reading and writing skills at B2 level and basic speaking and
  listening skills at A2 level. I was a board member of Istanbul Gelisim University Cyber Security Club.
  I am interested in cyber security, cloud systems. My projects on Github provide information about my skills.</p>
