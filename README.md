@@ -1,8 +1,8 @@
-<h2 align="left">Hey 👋</h2>
+<h2 align="left">Hey I'm Görkem 👋</h2>
 
 ###
 
-<p align="left"> I am Görkem, a cyber security, writer and a person with high aesthetic concerns. </p>
+<p align="left"> I am a cyber security, writer and a person with high aesthetic concerns. </p>
 
 ###
 
