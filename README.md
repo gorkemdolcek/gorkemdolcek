@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left"> </p>
+<p align="left"> Hello, I am Görkem, a cyber security, writer and a person with high aesthetic concerns. </p>
 
 ###
 
