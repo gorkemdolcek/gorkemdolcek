@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left"> I am a cyber security, writer and a person with high aesthetic concerns. </p>
+<p align="left"> I am a cyber security, writer and a person with high aesthetic concerns. Based in Istanbul, Turkiye. </p>
 
 ###
 
