@@ -6,23 +6,29 @@
 
 ###
 
-<h4 align="left">Languages: </h4> <p> Python, Java, C#, MYSQL. </p>
+<h4 align="left">Hard Skills: </h4>
+
+###
+
+Digital Forensics and Incident Response (DFIR), Security Information and Event Management (SIEM), Security Operations Center (SOC)
+
+###
+
+<h4 align="left"> Security Tools: </h4>
+
+###
+
+Wireshark, Metasploit, Burp Suite, NMAP, Nessus, AccessData FTK Imager
+
+###
+
+
+<h4 align="left">Languages: </h4>
 
 ###
 
 Python, Java, C#, MYSQL.
 
 ###
-
-<h3 align="left"> Tools: </h3>
-
-###
-
-Git, Linux, Qt Designer, Scene Builder.
-
-###
-
-
-### 
 
 
