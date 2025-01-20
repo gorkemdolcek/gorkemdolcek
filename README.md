@@ -20,7 +20,8 @@
 
 ###
 
-Wireshark, Metasploit, Burp Suite, NMAP, Nessus, AccessData FTK Imager
+Wireshark, Metasploit, Burp Suite, NMAP, Nessus, AccessData FTK Imager, MITRE ATT&CK, CyberKill 
+Chain
 
 ###
 
