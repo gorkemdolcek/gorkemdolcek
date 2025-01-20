@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="left">Languages:</h4> Python, Java, C#, MYSQL.
+<h4 align="left">Languages: Python, Java, C#, MYSQL. </h4> 
 
 ###
 
