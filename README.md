@@ -10,7 +10,9 @@
 
 ###
 
-Digital Forensics and Incident Response (DFIR), Security Information and Event Management (SIEM), Security Operations Center (SOC)
+Digital Forensics and Incident Response (DFIR), 
+Security Information and Event Management (SIEM), 
+Security Operations Center (SOC)
 
 ###
 
