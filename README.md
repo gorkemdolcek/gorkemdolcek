@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="left">Hard Skills: </h4>
+<h3 align="left">Hard Skills: </h3>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<h4 align="left"> Security Tools: </h4>
+<h3 align="left"> Security Tools: </h3>
 
 ###
 
@@ -25,7 +25,7 @@ Wireshark, Metasploit, Burp Suite, NMAP, Nessus, AccessData FTK Imager
 ###
 
 
-<h4 align="left">Languages: </h4>
+<h3 align="left">Languages: </h3>
 
 ###
 
