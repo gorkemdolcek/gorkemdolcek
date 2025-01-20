@@ -6,7 +6,7 @@
 
 ###
 
-<h4 bold align="left">Hard Skills: </h4>
+<h4 align="left">Hard Skills: </h4>
 
 ###
 
