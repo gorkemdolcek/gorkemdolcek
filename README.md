@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">Hard Skills: </h3>
+<h4 align="left">Hard Skills: </h4>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<h3 align="left"> Security Tools: </h3>
+<h4 align="left"> Security Tools: </h4>
 
 ###
 
@@ -26,7 +26,7 @@
 ###
 
 
-<h3 align="left">Languages: </h3>
+<h4 align="left">Languages: </h4>
 
 ###
 
